@@ -1,5 +1,5 @@
 body {
-    font-family: "Raleway", sans-serif;
+    font-family:'Times New Roman', Times, serif
   }
   
  .container img {
@@ -14,7 +14,7 @@ body {
   /* Mis trabajos */
   
   #Mis-trabajos .image-top {
-    height: 250px;
+    height: 300px;
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
